@@ -23,7 +23,7 @@
 ![video link](./img/screenshot.png)
 
 ## Github
-[Github link](https://github.com/blueink38/employee-tracker-2)
+[Github link](https://github.com/blueink38/new-employee-tracker)
 
 
 ## Technologies
