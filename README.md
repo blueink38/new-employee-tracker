@@ -20,7 +20,7 @@
 > Look at all the employees and see their role, department, manager, and salary.
 
 ## Video
-![video link](./img/screenshot.png)
+[video link](https://drive.google.com/file/d/1el87MINCQwjwhmkEXcQsvzGAyTfb9k-J/view)
 
 ## Github
 [Github link](https://github.com/blueink38/new-employee-tracker)
